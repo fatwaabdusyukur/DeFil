@@ -1,5 +1,18 @@
 chrome.runtime.onMessage.addListener((req, sender, sendRespon) => {
-  showModal(req.value, "Class");
+  if (req.type === "popup-modal") {
+    fetch("http://127.0.0.1:5000/predict", {
+      method: "POST",
+      body: new URLSearchParams({
+        text: req.value,
+      }),
+      headers: {
+        "Content-Type": "application/x-www-form-urlencoded",
+      },
+    })
+      .then((response) => response.json())
+      .then((res) => showModal(res.tweet, res.result))
+      .catch((err) => console.log(err));
+  }
 });
 
 const showModal = (tweet, cat) => {
