@@ -4,10 +4,10 @@
   "description": "plugin to filter defamation tweets",
   "version": "1.0",
   "icons": {
-    "16": "images/icon-16.png",
-    "32": "images/icon-32.png",
-    "48": "images/icon-48.png",
-    "128": "images/icon-128.png"
+    "16": "assets/images/icon-16.png",
+    "32": "assets/images/icon-32.png",
+    "48": "assets/images/icon-48.png",
+    "128": "assets/images/icon-128.png"
   },
   "permissions": ["tabs", "contextMenus"],
   "web_accessible_resources": [
@@ -17,12 +17,12 @@
     }
   ],
   "background": {
-    "service_worker": "scripts/background.js"
+    "service_worker": "client/background.js"
   },
   "content_scripts": [
     {
-      "js": ["scripts/content.js"],
-      "css": ["scripts/style.css"],
+      "js": ["client/content.js"],
+      "css": ["assets/css/style.css"],
       "matches": ["https://twitter.com/*"]
     }
   ]
