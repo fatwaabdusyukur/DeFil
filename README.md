@@ -1,6 +1,6 @@
 # DeFil
 <div align="center" style="border-bottom: 1px black;">
-  <img src="https://github.com/fatwaabdusyukur/DeFil/assets/89562555/ae98439b-cfa3-4122-a718-bf2547b0f43a"
+  <img src="https://private-user-images.githubusercontent.com/89562555/253791041-ae98439b-cfa3-4122-a718-bf2547b0f43a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE2ODk0OTM2NzgsIm5iZiI6MTY4OTQ5MzM3OCwicGF0aCI6Ii84OTU2MjU1NS8yNTM3OTEwNDEtYWU5ODQzOWItY2ZhMy00MTIyLWE3MTgtYmYyNTQ3YjBmNDNhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzA3MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMwNzE2VDA3NDI1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxODQwZWI1NGUwMmZmNmJmYTY4NWZiZmNhYTIwMDEwOGI1MGRiNmJhODBiNjAwYzAxOGY1Y2FhNjRjZTAyYzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.tRe7xdGzGqyp5YR3cUUXvz5bXEbxT8HOZfrbttk4M9o"
      alt="LOGO"
      style="width: 20%;" />
 </div>
@@ -14,7 +14,9 @@ Defil merupakan chrome extension yang digunakan untuk mengecek tweet pencemaran 
   
     
 
-https://github.com/fatwaabdusyukur/DeFil/assets/89562555/e1ea0729-70c1-41f7-a52e-fef6f7cf07ba
+
+https://github.com/fatwaabdusyukur/DeFil/assets/89562555/ecd2fb6a-3ecb-45b3-9fb2-3b12eb41f523
+
 
 
 2. Fitur Verifikasi Tweet Orang
@@ -23,7 +25,9 @@ https://github.com/fatwaabdusyukur/DeFil/assets/89562555/e1ea0729-70c1-41f7-a52e
     
     
 
-https://github.com/fatwaabdusyukur/DeFil/assets/89562555/69b95c6c-a3aa-4f04-90d1-d9e65889c2f7
+
+
+https://github.com/fatwaabdusyukur/DeFil/assets/89562555/994ca87a-b1d2-4d15-b81a-96fbf3b3c0ab
 
 
 
